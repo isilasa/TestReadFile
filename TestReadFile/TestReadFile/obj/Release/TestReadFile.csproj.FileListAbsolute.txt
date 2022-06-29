@@ -1,0 +1,17 @@
+C:\Users\isila\source\TestReadFile\TestReadFile\TestReadFile\bin\Release\TestReadFile.exe.config
+C:\Users\isila\source\TestReadFile\TestReadFile\TestReadFile\bin\Release\TestReadFile.exe
+C:\Users\isila\source\TestReadFile\TestReadFile\TestReadFile\bin\Release\TestReadFile.pdb
+C:\Users\isila\source\TestReadFile\TestReadFile\TestReadFile\bin\Release\LinqToExcel.dll
+C:\Users\isila\source\TestReadFile\TestReadFile\TestReadFile\bin\Release\Newtonsoft.Json.dll
+C:\Users\isila\source\TestReadFile\TestReadFile\TestReadFile\bin\Release\Remotion.Data.Linq.dll
+C:\Users\isila\source\TestReadFile\TestReadFile\TestReadFile\bin\Release\Remotion.dll
+C:\Users\isila\source\TestReadFile\TestReadFile\TestReadFile\bin\Release\Remotion.Interfaces.dll
+C:\Users\isila\source\TestReadFile\TestReadFile\TestReadFile\bin\Release\LinqToExcel.xml
+C:\Users\isila\source\TestReadFile\TestReadFile\TestReadFile\bin\Release\Newtonsoft.Json.xml
+C:\Users\isila\source\TestReadFile\TestReadFile\TestReadFile\obj\Release\TestReadFile.csproj.AssemblyReference.cache
+C:\Users\isila\source\TestReadFile\TestReadFile\TestReadFile\obj\Release\TestReadFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\isila\source\TestReadFile\TestReadFile\TestReadFile\obj\Release\TestReadFile.csproj.ResolveComReference.cache
+C:\Users\isila\source\TestReadFile\TestReadFile\TestReadFile\obj\Release\TestReadFile.csproj.CoreCompileInputs.cache
+C:\Users\isila\source\TestReadFile\TestReadFile\TestReadFile\obj\Release\TestReadFile.csproj.CopyComplete
+C:\Users\isila\source\TestReadFile\TestReadFile\TestReadFile\obj\Release\TestReadFile.exe
+C:\Users\isila\source\TestReadFile\TestReadFile\TestReadFile\obj\Release\TestReadFile.pdb
